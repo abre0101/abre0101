@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>java servlet project</b>
-  - [hello_world](https://github.com/abre0101/abre0101/commit/ef45142183b858658d4f4aaf9f815de6e31d61f2)
-  - [busTicket](https://github.com/abre0101/abre0101/commit/ef45142183b858658d4f4aaf9f815de6e31d61f2)
+  - [hello_world](https://github.com/abre0101/abre010/commit/e00f49f504887b96a40023a3c12d72c09668ce51)
+  - [busTicket](https://github.com/abre0101/abre010/commit/e00f49f504887b96a40023a3c12d72c09668ce51)
   - [Disk_Sanitization](https://github.com/abre0101/lab/blob/main/README.md)
     
 
