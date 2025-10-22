@@ -1,33 +1,36 @@
-<h1>Hi, I'm Abraham! <br/><a href="https://github.com/abre0101">Software Engineer</a>
+# Hi, I'm Abraham! 👋
+**Software Engineer**
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Software Development Projects
 
-- <b>java servlet project</b>
-  - [hello_world](https://github.com/abre0101/abre010/commit/e00f49f504887b96a40023a3c12d72c09668ce51)
-  - [busTicket](https://github.com/abre0101/abre010/commit/e00f49f504887b96a40023a3c12d72c09668ce51)
-  - [Disk_Sanitization](https://github.com/abre0101/lab/blob/main/README.md)
-    
+### Java Applications
+- **[Bus Ticket System](https://github.com/abre0101/bus-ticket-system)** - Full-stack bus reservation system
+- **[Hello World Servlet](https://github.com/abre0101/hello-world-servlet)** - Basic Java servlet demonstration
+- **[Sport Website](https://github.com/abre0101/sport-website)** - Sports platform project
 
-<h2> 🤳 Connect with me:</h2>
+### Security & Systems
+- **[Disk Sanitization Utility](https://github.com/abre0101/disk-sanitization)** - Secure data erasure tool
 
+## 🛠️ Technical Skills
+- **Languages:** Java, JavaScript, Python, HTML/CSS
+- **Frameworks:** React, Node.js, Express
+- **Tools:** Git, VS Code, MySQL
+- **Concepts:** Full-Stack Development, REST APIs, Database Design
 
-[<img align="left" alt="abraham_.010 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 📫 Connect With Me
 
+[<img align="left" alt="Abraham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Abraham | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Abraham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
+## 📊 GitHub Stats
+![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=radical)
+
+---
+
+⭐️ From [abre0101](https://github.com/abre0101)
 
 [instagram]: https://www.instagram.com/abraham_.010/
-
-
-<!--
-**abre0101/abre0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[github]: https://github.com/abre0101
