@@ -189,22 +189,19 @@ const abraham = {
 <div align="center">
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true)
-
-<br>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abre0101&theme=github_dark)
 
 ### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abre0101&theme=github_dark&exclude=html,css,scss)
 
-<br>
+### 📊 Most Used Languages
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abre0101&theme=github_dark&exclude=html,css,scss)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=abre0101&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)
+![GitHub Streak](https://streak-stats.demolab.com?user=abre0101&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF)
 
-<br>
-
-### 📊 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity)
+### 🗓️ Contribution Graph
+![Contribution Graph](https://raw.githubusercontent.com/abre0101/abre0101/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
