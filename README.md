@@ -197,8 +197,12 @@ const abraham = {
 ### 📊 Most Used Languages
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abre0101&theme=github_dark&exclude=html,css,scss)
 
+### 🔥 GitHub Streak
+
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abre0101&theme=tokyonight&hide_border=true&background=0d1117&stroke=A9FEF7&ring=A9FEF7&fire=A9FEF7&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=888888" alt="GitHub Streak" />
   <br>
+
+ ### 🗓️ Contribution Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-compact&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
