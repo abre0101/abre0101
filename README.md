@@ -97,9 +97,9 @@ const abraham = {
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=abre0101&repo=Document-Workflow-System&theme=tokyonight&show_owner=true&border_color=A9FEF7" />
         </a>
         <p align="center">
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
         </p>
       </div>
       <p align="center"><strong>Document management system</strong> with approval workflows, version control, and role-based permissions.</p>
