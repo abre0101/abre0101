@@ -50,7 +50,7 @@ const abraham = {
     github: "https://github.com/abre0101",
     linkedin: "https://linkedin.com/in/abrahamworku"
   },
-  funFact: "Former DJ turned developer – still mixing code instead of tracks!",
+  funFact: "Former DJ turned developer — still mixing code instead of tracks!",
   motto: "Build things that matter, write code that inspires."
 };
 ```
@@ -62,7 +62,7 @@ const abraham = {
 - 🌟 Currently: Building scalable web applications and contributing to open source
 - 🎯 Focus: Creating beautiful, performant frontends with modern JavaScript/React
 - 📚 Learning: Advanced React patterns, microservices architecture, and cloud deployment
-- 💡 Philosophy: Clean code > clever code, user experience is everything
+- 💡 Philosophy: Clean code > clever code; user experience is everything
 - 🎵 Beyond Code: Music production, photography, and discovering new coffee shops
 - 🤝 Always open to collaborating on interesting projects or mentorship
 
@@ -83,9 +83,9 @@ const abraham = {
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=abre0101&repo=bus-reservation-system&theme=tokyonight&show_owner=true&border_color=A9FEF7" />
         </a>
         <p align="center">
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
         </p>
       </div>
       <p align="center"><strong>Full-stack bus booking platform</strong> with real-time seat selection, payment integration, and admin dashboard.</p>
@@ -235,7 +235,7 @@ const abraham = {
 </table>
 
 <div align="center">
-  <sub>Currently working on: Answering GitHub Discussions & increasing open source contributions</sub>
+  <sub>Currently working on: Answering GitHub Discussions and increasing open source contributions</sub>
 </div>
 
 ---
