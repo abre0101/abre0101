@@ -229,7 +229,7 @@ const abraham = {
       <br>
       <strong>Pair Extraordinaire</strong>
       <br>
-      <span style="color: #888888;">🔜 NEXT GOAL</span>
+      <span style="color: #A9FEF7;">✅ EARNED</span>
     </td>
   </tr>
 </table>
