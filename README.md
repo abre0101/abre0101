@@ -187,10 +187,15 @@ const abraham = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9FEF7&text_color=ffffff&langs_count=8&card_width=400" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abre0101&theme=tokyonight&hide_border=true&background=0d1117&stroke=A9FEF7&ring=A9FEF7&fire=A9FEF7&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=888888" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-compact&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true&custom_title=My%2520Contribution%2520Activity" alt="Contribution Graph"/>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff&include_all_commits=true&count_private=true&hide=issues)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A9FEF7&text_color=ffffff&langs_count=8&card_width=400)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abre0101&theme=tokyonight&hide_border=true&background=0d1117&stroke=A9FEF7&ring=A9FEF7&fire=A9FEF7&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=888888)
+  
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-compact&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity)
+
 </div>
 
 ---
