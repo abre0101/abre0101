@@ -1,181 +1,113 @@
 <div align="center">
 
-<!-- Title Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=1000&lines=Hey+there!+👋+I'm+Abraham+Worku;Full+Stack+Software+Engineer+⚡;React+%2B+Laravel+Specialist;Open+Source+Contributor+🚀;Let's+Build+Something+Awesome!" />
+<!-- Animated Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=1100&lines=✨+Abraham+Worku+✨;Full+Stack+Software+Engineer;React+•+Laravel+•+Python+•+TypeScript;Passionate+About+Scalable+Solutions" />
 
 <br/>
 
-<!-- Stats Badges -->
+<!-- Stats & Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=abre0101&color=A9FEF7&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/abre0101?color=A9FEF7&label=FOLLOWERS&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/abre0101?color=A9FEF7&label=TOTAL+STARS&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/last-commit/abre0101/abre0101?color=A9FEF7&label=LAST+UPDATE&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=abre0101&color=00D4FF&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/abre0101?color=00D4FF&label=FOLLOWERS&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/stars/abre0101?color=00D4FF&label=STARS&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/abre0101/abre0101?color=00D4FF&label=LAST+UPDATE&style=flat-square&logo=github" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 **Professional Summary**
+## 🚀 **About Me**
 
-I’m **Abraham Worku**, a passionate **Full-Stack Software Engineer** specializing in **React, Laravel, Python, and Java**.  
-I build **production-ready applications** with modern UI, scalable APIs, clean architecture, and real business impact.
+I’m a **Full-Stack Software Engineer** passionate about building **scalable, user-centric applications** with modern technologies. I specialize in crafting seamless experiences from **UI/UX** to **robust backend systems**, with a focus on clean architecture, performance, and maintainability.
 
-I love turning complex problems into simple, elegant, user-focused solutions.
-
----
-
-# 🧠 **Tech Snapshot (Short + Recruiter Friendly)**
-
-- ⚛️ **Frontend:** React, Vue, Tailwind, TypeScript  
-- 🛠 **Backend:** Laravel, Flask, Express, Node.js  
-- 🗄 **Databases:** MongoDB, PostgreSQL, MySQL, Redis  
-- ☁️ **Tools:** Docker, GitHub Actions, AWS, Figma  
-- 🔒 **Expertise:** REST APIs, Authentication, Payment Integration, OCR, Document Workflows  
-- 🎯 **Focus:** Scalable full-stack systems with clean code & modern UX  
+> “Turning complex challenges into elegant, production-ready solutions.”
 
 ---
 
-# 🚌 **Featured Production Projects**
+## 🛠️ **Technology Stack**
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=🚀+Highlighted+Work" />
-</div>
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### **Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🚌 **EthioBus – Bus Reservation System**
-<a href="https://github.com/abre0101/bus-reservation-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abre0101&repo=bus-reservation-system&theme=tokyonight&border_color=A9FEF7" />
-</a>
+### **Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Stack:** Flask, React, MongoDB  
-✔ Real-time seat selection  
-✔ Chapa payment integration  
-✔ QR ticket validation  
-✔ Admin dashboard  
-</td>
+### **Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<td width="50%" valign="top">
+---
 
-### 📄 **Document Workflow System**
-<a href="https://github.com/abre0101/Document-Workflow-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abre0101&repo=Document-Workflow-System&theme=tokyonight&border_color=A9FEF7" />
-</a>
+## 📂 **Featured Projects**
 
-**Stack:** Laravel, MySQL  
-✔ Multi-level approvals  
-✔ OCR integration  
-✔ Version control & role-based access  
-✔ Letter/document management  
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚽ **Football Tournament Manager**
-<a href="https://github.com/abre0101/tournament-manager-laravel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abre0101&repo=tournament-manager-laravel&theme=tokyonight&border_color=A9FEF7" />
-</a>
-
-**Stack:** Laravel, JS, Chart.js  
-✔ Knockout & league modes  
-✔ Live standings / team stats  
-✔ Clean MVC architecture  
-</td>
-
-<td width="50%" valign="top">
-
-### 📱 **Vue Contact Manager**
-<a href="https://github.com/abre0101/vue-contact-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abre0101&repo=vue-contact-manager&theme=tokyonight&border_color=A9FEF7" />
-</a>
-
-**Stack:** Vue.js, Tailwind  
-✔ Modern UI  
-✔ Real-time search  
-✔ CRUD + local storage  
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[🚌 EthioBus – Reservation System](https://github.com/abre0101/bus-reservation-system)** | Production-ready bus booking platform with real-time seat selection, payment integration, QR ticketing, and admin dashboard. | Flask, React, MongoDB, Chapa API |
+| **[📄 Document Workflow System](https://github.com/abre0101/Document-Workflow-System)** | Multi-role approval system with OCR, version tracking, and secure document management for enterprise use. | Laravel, MySQL, OCR Integration |
+| **[⚽ Tournament Manager](https://github.com/abre0101/tournament-manager-laravel)** | Dynamic tournament management with knockout/league modes, live standings, and team statistics. | Laravel, Chart.js, MVC |
+| **[📱 Vue Contact Manager](https://github.com/abre0101/vue-contact-manager)** | Modern contact management app with real-time search, CRUD operations, and local storage. | Vue 3, Tailwind CSS, Composition API |
 
 <div align="center">
   <a href="https://github.com/abre0101?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_View_All_Projects-A9FEF7?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/🔍_View_All_Projects-00D4FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
-# 🛠️ **Tech Stack**
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=💻+Technologies+I+Work+With" />
-</div>
-
-### **Frontend**
-React · Vue · TypeScript · JavaScript · Tailwind · HTML/CSS
-
-### **Backend**
-Laravel · Flask · Express.js · Node.js · PHP · Python
-
-### **Databases**
-MongoDB · PostgreSQL · MySQL 
-
-### **Tools**
-Git · Docker · GitHub Actions · Figma · VS Code · AWS
-
----
-
-# 📊 **GitHub Analytics**
+## 📈 **GitHub Analytics**
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abre0101&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abre0101&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abre0101&theme=github_dark" />
+### 📊 **Profile Overview**
+![Abraham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF)
 
-<br/>
+### 🔥 **Contribution Streak**
+![GitHub Streak](https://streak-stats.demolab.com/?user=abre0101&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abre0101&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-compact&area=true&hide_border=true" />
+### 📆 **Contribution Graph**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true)
 
 </div>
 
 ---
 
-# 🏅 **GitHub Achievements**
+## 🏆 **Achievements**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=darkhub&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=darkhub&no-frame=true&column=8&margin-w=10&margin-h=10" />
 </div>
 
 ---
 
-# 🎨 **Fun Stuff**
+## 💬 **Let's Connect**
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</div>
-
----
-
-# 📬 **Let's Connect**
+I’m always open to collaborating on interesting projects, discussing tech, or just connecting with fellow developers.
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrahamworku)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abre0101)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrahamworku)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrahamworku10a@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrahamworku10a@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abre_bepw)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abre0101)
 
@@ -185,8 +117,10 @@ Git · Docker · GitHub Actions · Figma · VS Code · AWS
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ **Thanks for stopping by!**
 
-<img src="https://profile-counter.glitch.me/abre0101/count.svg" />
+*“Code is poetry when it’s clean, scalable, and solves real problems.”*
+
+![Visitor Count](https://profile-counter.glitch.me/abre0101/count.svg)
 
 </div>
