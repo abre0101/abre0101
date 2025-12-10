@@ -73,22 +73,46 @@ I’m a **Full-Stack Software Engineer** passionate about building **scalable, u
 
 ---
 
-## 📈 **GitHub Analytics**
+# 📈 **GitHub Analytics**
 
 <div align="center">
 
 ### 📊 **Profile Overview**
-![Abraham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abre0101&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abre0101&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abre0101&theme=github_dark" />
+
+<br/>
 
 ### 🔥 **Contribution Streak**
-![GitHub Streak](https://streak-stats.demolab.com/?user=abre0101&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abre0101&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 ### 📆 **Contribution Graph**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-compact&area=true&hide_border=true" />
 
 </div>
 
+---
+
+# 🏅 **GitHub Achievements**
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=darkhub&no-frame=true&column=7" />
+</div>
+
+---
+
+# 🎨 **Fun Stuff**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</div>
+
+---
 ---
 
 ## 🏆 **Achievements**
