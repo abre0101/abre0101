@@ -99,7 +99,7 @@ I’m a **Full-Stack Software Engineer** passionate about building **scalable, u
 ## 🏅 **GitHub Achievements**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=onedark&no-frame=true&column=7" />
+<img src="https://github-trophies.vercel.app/?username=abre0101&theme=onedark&no-frame=true&column=7" />
 </div>
 
 ---
