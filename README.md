@@ -90,7 +90,7 @@ I’m a **Full-Stack Software Engineer** passionate about building **scalable, u
 <br/>
 
 ### 📆 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-compact&area=true&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=abre0101&theme=tokyonight&hide_border=true" />
 
 </div>
 
