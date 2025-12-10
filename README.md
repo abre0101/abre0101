@@ -73,7 +73,7 @@ I’m a **Full-Stack Software Engineer** passionate about building **scalable, u
 
 ---
 
-# 📈 **GitHub Analytics**
+## 📈 **GitHub Analytics**
 
 <div align="center">
 
@@ -96,30 +96,20 @@ I’m a **Full-Stack Software Engineer** passionate about building **scalable, u
 
 ---
 
-# 🏅 **GitHub Achievements**
+## 🏅 **GitHub Achievements**
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=darkhub&no-frame=true&column=7" />
 </div>
 
-
 ---
 
-# 🎨 **Fun Stuff**
+## 🎨 **Fun Stuff**
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   <br/><br/>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</div>
-
----
----
-
-## 🏆 **Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=darkhub&no-frame=true&column=8&margin-w=10&margin-h=10" />
 </div>
 
 ---
