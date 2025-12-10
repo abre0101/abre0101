@@ -124,7 +124,7 @@ React · Vue · TypeScript · JavaScript · Tailwind · HTML/CSS
 Laravel · Flask · Express.js · Node.js · PHP · Python
 
 ### **Databases**
-MongoDB · PostgreSQL · MySQL · Redis
+MongoDB · PostgreSQL · MySQL 
 
 ### **Tools**
 Git · Docker · GitHub Actions · Figma · VS Code · AWS
