@@ -85,12 +85,12 @@ I’m a **Full-Stack Software Engineer** passionate about building **scalable, u
 <br/>
 
 ### 🔥 **Contribution Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abre0101&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=abre0101&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 ### 📆 **Contribution Graph**
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=abre0101&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-compact&area=true&hide_border=true" />
 
 </div>
 
@@ -99,7 +99,7 @@ I’m a **Full-Stack Software Engineer** passionate about building **scalable, u
 ## 🏅 **GitHub Achievements**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=darkhub&no-frame=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=onedark&no-frame=true&column=7" />
 </div>
 
 ---
