@@ -185,11 +185,13 @@ Modern contact management application with real-time search, CRUD operations, an
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Highlights
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abre0101&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+| 📊 Total Contributions | ⭐ Total Stars | 🔱 Repositories | 👥 Followers |
+|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/dynamic/json?color=00D4FF&label=&query=$.totalContributions&url=https://github-contributions-api.jogruber.de/v4/abre0101?y=last&style=for-the-badge) | ![](https://img.shields.io/github/stars/abre0101?style=for-the-badge&color=00D4FF) | ![](https://img.shields.io/badge/dynamic/json?color=00D4FF&label=&query=$.public_repos&url=https://api.github.com/users/abre0101&style=for-the-badge) | ![](https://img.shields.io/github/followers/abre0101?style=for-the-badge&color=00D4FF) |
 
 </div>
 
