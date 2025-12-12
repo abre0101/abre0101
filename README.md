@@ -293,42 +293,11 @@ I'm always open to collaborating on interesting projects, discussing tech, or ju
 
 ---
 
-## 🤖 About This Profile
-
-This GitHub profile README is dynamically generated and includes automation scripts for fetching:
-- Recent GitHub activities
-- Top repositories by stars
-- Follower information
-
-The automation is built with Python and uses the GitHub API to keep the profile fresh and up-to-date.
-
-### Setup Instructions
-
-If you want to use similar automation for your profile:
-
-1. Clone this repository
-2. Copy `.env.example` to `.env` and add your GitHub token:
-   ```bash
-   cp .env.example .env
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the scripts in the `scripts/` folder:
-   - `fetch_activity.py` - Fetch recent GitHub activities
-   - `fetch_repos.py` - Fetch top repositories
-   - `fetch_followers.py` - Fetch follower information
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for stopping by!
 
 *If you find my work interesting, consider giving a star to my repositories!*
-
-![Visitor Count](https://profile-counter.glitch.me/abre0101/count.svg)
 
 **Made with ❤️ and lots of ☕**
 
