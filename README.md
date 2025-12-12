@@ -231,23 +231,28 @@ Secure disk wiping utility for permanent data deletion and drive sanitization.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
 ### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=abre0101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=abre0101&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
 ### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
 
-<br/>
+<br/><br/>
 
 ### 📆 Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abre0101&theme=github_dark" alt="Profile Summary" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abre0101&theme=github_dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abre0101&theme=github_dark" alt="Most Commit Language" />
 
 </div>
 
