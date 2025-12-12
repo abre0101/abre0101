@@ -188,7 +188,7 @@ Modern contact management application with real-time search, CRUD operations, an
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
