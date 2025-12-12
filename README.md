@@ -241,8 +241,7 @@ Secure disk wiping utility for permanent data deletion and drive sanitization.
 
 <br/>
 
-### � Protfile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abre0101&theme=github_dark" alt="Profile Summary" />
+
 
 </div>
 
