@@ -231,15 +231,23 @@ Secure disk wiping utility for permanent data deletion and drive sanitization.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&hide_border=true)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abre0101&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff&hide_border=true)
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=abre0101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abre0101&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)
+<br/>
 
-<br/><br/>
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
+
+<br/>
+
+### 📆 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abre0101&theme=github_dark" alt="Profile Summary" />
 
 </div>
 
