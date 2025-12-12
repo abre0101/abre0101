@@ -1,16 +1,19 @@
 <div align="center">
 
-<!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=1100&lines=✨+Abraham+Worku+✨;Full+Stack+Software+Engineer;React+•+Laravel+•+Python+•+TypeScript;Building+Scalable+%26+Elegant+Solutions" alt="Typing Animation" />
+<!-- Matrix Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Abraham%20Worku&fontSize=42&fontColor=00ff41&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=51&descAlign=50" alt="Matrix Header" />
+
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Laravel+%E2%80%A2+Python+%E2%80%A2+TypeScript;Building+Scalable+Solutions;Turning+Code+Into+Reality" alt="Typing Animation" />
 
 <br/>
 
 <!-- Stats & Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=abre0101&color=00D4FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abre0101?color=00D4FF&label=FOLLOWERS&style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/abre0101?color=00D4FF&label=STARS&style=flat-square&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/abre0101/abre0101?color=00D4FF&label=LAST+UPDATE&style=flat-square&logo=github" alt="Last Update" />
+  <img src="https://komarev.com/ghpvc/?username=abre0101&color=00ff41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abre0101?color=00ff41&label=FOLLOWERS&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/abre0101?color=00ff41&label=STARS&style=flat-square&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/abre0101/abre0101?color=00ff41&label=LAST+UPDATE&style=flat-square&logo=github" alt="Last Update" />
 </p>
 
 </div>
