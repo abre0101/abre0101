@@ -189,9 +189,10 @@ Modern contact management application with real-time search, CRUD operations, an
 
 <div align="center">
 
-| 📊 Total Contributions | ⭐ Total Stars | 🔱 Repositories | 👥 Followers |
-|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/dynamic/json?color=00D4FF&label=&query=$.totalContributions&url=https://github-contributions-api.jogruber.de/v4/abre0101?y=last&style=for-the-badge) | ![](https://img.shields.io/github/stars/abre0101?style=for-the-badge&color=00D4FF) | ![](https://img.shields.io/badge/dynamic/json?color=00D4FF&label=&query=$.public_repos&url=https://api.github.com/users/abre0101&style=for-the-badge) | ![](https://img.shields.io/github/followers/abre0101?style=for-the-badge&color=00D4FF) |
+![Total Stars](https://img.shields.io/github/stars/abre0101?style=for-the-badge&logo=github&color=00D4FF&label=TOTAL%20STARS)
+![Followers](https://img.shields.io/github/followers/abre0101?style=for-the-badge&logo=github&color=00D4FF&label=FOLLOWERS)
+![Public Repos](https://img.shields.io/badge/PUBLIC%20REPOS-20+-00D4FF?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=abre0101&color=00D4FF&style=for-the-badge&label=PROFILE%20VIEWS)
 
 </div>
 
