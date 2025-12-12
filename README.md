@@ -17,7 +17,7 @@
 
 ---
 
-## � Abouot Me
+## 👋 About Me
 
 Hey there! I'm **Abraham Worku**, a **Full-Stack Software Engineer** who loves turning complex problems into elegant, production-ready solutions. I specialize in building **scalable, user-centric applications** with modern technologies, from pixel-perfect **UI/UX** to **robust backend systems**.
 
@@ -188,7 +188,9 @@ Modern contact management application with real-time search, CRUD operations, an
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abre0101&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abre0101&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
