@@ -231,8 +231,8 @@ Secure disk wiping utility for permanent data deletion and drive sanitization.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abre0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abre0101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
