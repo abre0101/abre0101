@@ -42,6 +42,7 @@ Hey there! I'm **Abraham Worku**, a **Full-Stack Software Engineer** who loves t
 <td valign="top" width="33%">
 
 ### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -54,12 +55,14 @@ Hey there! I'm **Abraham Worku**, a **Full-Stack Software Engineer** who loves t
 <td valign="top" width="33%">
 
 ### Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -77,10 +80,12 @@ Hey there! I'm **Abraham Worku**, a **Full-Stack Software Engineer** who loves t
 <tr>
 <td valign="top" colspan="3">
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Databases & ORMs
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </td>
@@ -109,6 +114,22 @@ Production-ready bus booking platform with real-time seat selection, payment int
 </td>
 <td width="50%">
 
+### ☕ [Bus Reservation System (Java)](https://github.com/abre0101/bus-reservation-system-java)
+Java-based bus reservation system with robust backend architecture and comprehensive booking management.
+
+**Tech Stack:** Java, Swing, JDBC
+
+**Features:**
+- Desktop application interface
+- Database-driven booking system
+- Seat management & reservations
+- User authentication
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📄 [Document Workflow System](https://github.com/abre0101/Document-Workflow-System)
 Enterprise-grade document management system with multi-role approval workflows, OCR capabilities, and version tracking.
 
@@ -121,11 +142,9 @@ Enterprise-grade document management system with multi-role approval workflows, 
 - Role-based access control
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### ⚽ [Tournament Manager](https://github.com/abre0101/tournament-manager-laravel)
+### ⚽ [Tournament Manager (Laravel)](https://github.com/abre0101/tournament-manager-laravel)
 Dynamic tournament management system supporting knockout and league formats with live standings and comprehensive statistics.
 
 **Tech Stack:** Laravel, Chart.js, MVC Architecture
@@ -135,6 +154,22 @@ Dynamic tournament management system supporting knockout and league formats with
 - Live standings & match tracking
 - Team statistics & analytics
 - Responsive admin interface
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏆 [Football Tournament Manager (Java)](https://github.com/abre0101/football-tournament-manager-java)
+Java-based tournament management application for organizing and tracking football competitions.
+
+**Tech Stack:** Java, Swing, OOP
+
+**Features:**
+- Tournament bracket generation
+- Match scheduling & results
+- Team & player management
+- Statistics tracking
 
 </td>
 <td width="50%">
@@ -149,6 +184,36 @@ Modern contact management application with real-time search, CRUD operations, an
 - Full CRUD operations
 - Local storage persistence
 - Responsive design
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📦 [Inventory Management CRUD](https://github.com/abre0101/Inventory-Management-CRUD-Application)
+Full-featured inventory management system with complete CRUD operations for tracking products and stock levels.
+
+**Tech Stack:** PHP, MySQL, Bootstrap
+
+**Features:**
+- Product management
+- Stock tracking
+- Category organization
+- Search & filtering
+
+</td>
+<td width="50%">
+
+### 🛠️ [JWipe - Disk Sanitization Tool](https://github.com/abre0101/JWipe-Disk-Sanitization-Tool)
+Secure disk wiping utility for permanent data deletion and drive sanitization.
+
+**Tech Stack:** Java, File I/O
+
+**Features:**
+- Secure data wiping
+- Multiple sanitization methods
+- Drive selection interface
+- Progress tracking
 
 </td>
 </tr>
