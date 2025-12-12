@@ -231,34 +231,17 @@ Secure disk wiping utility for permanent data deletion and drive sanitization.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abre0101&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abre0101&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abre0101&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abre0101&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)
 
 <br/><br/>
-
-### 🔥 Contribution Streak
-<img src="https://streak-stats.demolab.com/?user=abre0101&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
-
-<br/><br/>
-
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
-
-<br/><br/>
-
-### 📆 Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abre0101&theme=github_dark" alt="Profile Summary" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abre0101&theme=github_dark" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abre0101&theme=github_dark" alt="Most Commit Language" />
 
 </div>
-
----
-
-
 
 ---
 
