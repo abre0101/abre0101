@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-Hey there! I'm **Abraham Worku**, a **Full-Stack Software Engineer** who loves turning complex problems into elegant, production-ready solutions. I specialize in building **scalable, user-centric applications** with modern technologies, from pixel-perfect **UI/UX** to **robust backend systems**.
+Hey there! I'm **Abraham Worku**, a **Software Engineer** who loves turning complex problems into elegant, production-ready solutions. I specialize in building **scalable, user-centric applications** with modern technologies, from pixel-perfect **UI/UX** to **robust backend systems**.
 
 ### What I Do
 - 🎯 Build end-to-end web applications with clean architecture
