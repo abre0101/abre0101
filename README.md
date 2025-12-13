@@ -1,18 +1,20 @@
 <div align="center">
 
-<!-- Matrix Banner -->
+<!-- Animated Matrix Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=200&section=header&text=Abraham%20Worku&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=55&descAlign=50&fontAlign=50" alt="Matrix Header" />
 
+<!-- Terminal Style Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF41&width=650&height=60&lines=echo+%22Hello+World%22+%23+Abraham+Worku;Full-Stack+Developer+%7C+Problem+Solver;Building+The+Digital+Future" alt="Typing Animation" />
+</p>
+
 <!-- Matrix Rain Effect -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1000&pause=100&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=01010100+01101000+01100101+00100000+01001101+01100001+01110100+01110010+01101001+01111000+00100000+01101000+01100001+01110011+00100000+01111001+01101111+01110101;Wake+up%2C+Neo...;Follow+the+white+rabbit;Knock%2C+knock%2C+Neo" alt="Matrix Code" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abre0101/abre0101/main/images/matrix-rain.gif" alt="Matrix Code Rain" width="100%" height="100" />
+</p>
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Laravel+%E2%80%A2+Python+%E2%80%A2+TypeScript;Building+Scalable+Solutions;Turning+Code+Into+Reality" alt="Typing Animation" />
-
-<br/>
-
-<!-- Stats & Badges -->
-<p>
+<!-- GitHub Stats Badges -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abre0101&color=00ff41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abre0101?color=00ff41&label=FOLLOWERS&style=flat-square&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/abre0101?color=00ff41&label=STARS&style=flat-square&logo=github" alt="Stars" />
