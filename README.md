@@ -4,7 +4,7 @@
 <img width="100%" src="./1_Hour_Matrix_Rain_Code.gif" alt="Matrix Rain Code" />
 
 <!-- Matrix Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=200&section=header&text=Abraham%20Worku&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=55&descAlign=50&fontAlign=50" alt="Matrix Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=200&section=header&text=Abraham%20Worku&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Front%20end%20Focused%20Software%20Engineer&descSize=20&descAlignY=55&descAlign=50&fontAlign=50" alt="Matrix Header" />
 
 <!-- Terminal Style Typing -->
 <p align="center">
