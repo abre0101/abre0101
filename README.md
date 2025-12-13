@@ -7,12 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF41&width=650&height=60&lines=echo+%22Hello+World%22+%23+Abraham+Worku;Full-Stack+Developer+%7C+Problem+Solver;Building+The+Digital+Future" alt="Typing Animation" />
 </p>
-
-<!-- Place this after your header, before the terminal typing -->
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQyM2I2ODk3ZTQyYzJkYzAwYTA0ZDg1MWM4N2JmN2U0YjAxMGIyNSZjdD1z/W1qjOtdcBdZKS/giphy.gif" alt="Matrix Rain" width="100%" />
-</p>
+<img src="https://media1.tenor.com/m/eimhKBlVMxMAAAAC/matrix-rain.gif" alt="Matrix Rain" width="100%" />
 
 <!-- GitHub Stats Badges -->
 <p align="center">
