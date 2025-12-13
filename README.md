@@ -8,9 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF41&width=650&height=60&lines=echo+%22Hello+World%22+%23+Abraham+Worku;Full-Stack+Developer+%7C+Problem+Solver;Building+The+Digital+Future" alt="Typing Animation" />
 </p>
 
-<!-- Matrix Rain Effect -->
+<!-- Place this after your header, before the terminal typing -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abre0101/abre0101/main/images/matrix-rain.gif" alt="Matrix Code Rain" width="100%" height="100" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQyM2I2ODk3ZTQyYzJkYzAwYTA0ZDg1MWM4N2JmN2U0YjAxMGIyNSZjdD1z/W1qjOtdcBdZKS/giphy.gif" alt="Matrix Rain" width="100%" />
 </p>
 
 <!-- GitHub Stats Badges -->
