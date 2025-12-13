@@ -1,13 +1,7 @@
 <div align="center">
 
-<!-- Matrix Rain GIF with Name Overlay -->
-<div style="position: relative; width: 100%;">
-  <img width="100%" src="./1_Hour_Matrix_Rain_Code.gif" alt="Matrix Rain Code" />
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <h1 style="color: #00ff41; font-size: 60px; font-weight: bold; text-shadow: 0 0 20px #00ff41, 0 0 40px #00ff41; margin: 0; font-family: 'Courier New', monospace;">ABRAHAM WORKU</h1>
-    <p style="color: #00ff41; font-size: 24px; margin-top: 10px; font-family: 'Courier New', monospace;">Full Stack Software Engineer</p>
-  </div>
-</div>
+<!-- Matrix Rain GIF -->
+<img width="100%" src="./1_Hour_Matrix_Rain_Code.gif" alt="Matrix Rain Code" />
 
 <!-- Matrix Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=200&section=header&text=Abraham%20Worku&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=55&descAlign=50&fontAlign=50" alt="Matrix Header" />
