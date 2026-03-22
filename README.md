@@ -220,7 +220,189 @@ Secure disk wiping utility for permanent data deletion and drive sanitization.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🎓 [Online Examination System](https://github.com/abre0101/Online_Examination_System)
+Web-based examination platform for conducting and managing online tests with automated grading.
+
+**Tech Stack:** HTML, CSS, JavaScript, PHP
+
+**Features:**
+- Online test creation & management
+- Automated grading system
+- Student & admin portals
+- Result tracking & reporting
+
+</td>
+<td width="50%">
+
+### 🅰️ [OES Angular](https://github.com/abre0101/OES_Angular)
+Angular-based frontend for the Online Examination System with a modern, responsive UI.
+
+**Tech Stack:** Angular, TypeScript, HTML/CSS
+
+**Features:**
+- Component-based architecture
+- Reactive forms & validation
+- Role-based views
+- Responsive design
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 [Microfinance Platform](https://github.com/abre0101/microfinance)
+JavaScript-based microfinance management system for handling loans, savings, and client records.
+
+**Tech Stack:** JavaScript, Node.js
+
+**Features:**
+- Loan management & tracking
+- Client account management
+- Savings & transaction records
+- Reporting & analytics
+
+</td>
+<td width="50%">
+
+### 🌐 [Eshet Microfinance Website](https://github.com/abre0101/Eshet_microfinance_website)
+Public-facing website for Eshet Microfinance with modern UI and service information.
+
+**Tech Stack:** JavaScript, HTML/CSS
+
+**Features:**
+- Service showcase
+- Responsive layout
+- Contact & inquiry forms
+- Modern UI/UX design
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 [PPT Maker](https://github.com/abre0101/ppt-maker)
+JavaScript tool for programmatically generating PowerPoint presentations.
+
+**Tech Stack:** JavaScript
+
+**Features:**
+- Automated slide generation
+- Custom templates & styling
+- Data-driven presentations
+- Export to PPTX format
+
+</td>
+<td width="50%">
+
+### 🔄 [Markdown to HTML Converter](https://github.com/abre0101/Markdown-to-HTML-Converter)
+CLI tool that converts Markdown files to clean, styled HTML output.
+
+**Tech Stack:** JavaScript
+
+**Features:**
+- Full Markdown spec support
+- Custom HTML templates
+- Batch file conversion
+- CLI interface
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📐 [Unit Converter CLI](https://github.com/abre0101/Unit-Converter-CLI)
+Command-line unit conversion tool supporting multiple measurement categories.
+
+**Tech Stack:** HTML, JavaScript
+
+**Features:**
+- Length, weight, temperature conversions
+- Interactive CLI interface
+- Extensible unit definitions
+- Fast & lightweight
+
+</td>
+<td width="50%">
+
+### 📶 [Wi-Fi QR Code Generator](https://github.com/abre0101/Wi-Fi-QR-Code-Generator)
+Python tool that generates scannable QR codes for Wi-Fi network credentials.
+
+**Tech Stack:** Python
+
+**Features:**
+- QR code generation for Wi-Fi
+- Supports WPA/WPA2/WEP
+- Save QR as image file
+- Simple CLI usage
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌍 [Portfolio](https://github.com/abre0101/Portfolio)
+Personal portfolio website showcasing projects, skills, and experience.
+
+**Tech Stack:** CSS, HTML, JavaScript
+
+**Features:**
+- Project showcase
+- Skills & experience section
+- Contact form
+- Responsive design
+
+</td>
+<td width="50%">
+
+### ⚛️ [React Practice](https://github.com/abre0101/react_practice)
+Collection of React exercises and mini-projects for learning and experimentation.
+
+**Tech Stack:** CSS, React
+
+**Features:**
+- Component patterns
+- Hooks & state management
+- API integration examples
+- Reusable UI components
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🗂️ All Repositories at a Glance
+
+| Repository | Visibility | Language | Notes |
+|---|---|---|---|
+| [OES_Angular](https://github.com/abre0101/OES_Angular) | Public | Angular | Online Exam System frontend |
+| [ppt-maker](https://github.com/abre0101/ppt-maker) | Private | JavaScript | Presentation generator |
+| [Online_Examination_System](https://github.com/abre0101/Online_Examination_System) | Private | HTML | Full exam platform |
+| [OES_php](https://github.com/abre0101/OES_php) | Private | PHP | OES backend |
+| [microfinance](https://github.com/abre0101/microfinance) | Public | JavaScript | Microfinance management |
+| [OES_Deploy](https://github.com/abre0101/OES_Deploy) | Private | PHP | OES deployment config |
+| [Eshet_microfinance_website](https://github.com/abre0101/Eshet_microfinance_website) | Public | JavaScript | Microfinance public site |
+| [eshet_microfinance](https://github.com/abre0101/eshet_microfinance) | Public | JavaScript | Microfinance core app |
+| [e_microfinance_website](https://github.com/abre0101/e_microfinance_website) | Private | JavaScript | Microfinance website variant |
+| [react_practice](https://github.com/abre0101/react_practice) | Public | CSS | React learning projects |
+| [Document-Workflow-System](https://github.com/abre0101/Document-Workflow-System) | Public | Blade | Enterprise doc management |
+| [Portfolio](https://github.com/abre0101/Portfolio) | Public | CSS | Personal portfolio |
+| [bus-reservation-system](https://github.com/abre0101/bus-reservation-system) | Private | JavaScript | Bus booking platform |
+| [Inventory-Management-CRUD-Application](https://github.com/abre0101/Inventory-Management-CRUD-Application) | Public | TypeScript | Inventory CRUD app |
+| [abre0101](https://github.com/abre0101/abre0101) | Public | Python | Profile README repo |
+| [python_practice](https://github.com/abre0101/python_practice) | Public | Python | Python exercises |
+| [PHP_CRUD](https://github.com/abre0101/PHP_CRUD) | Public | PHP | PHP CRUD operations |
+| [Wi-Fi-QR-Code-Generator](https://github.com/abre0101/Wi-Fi-QR-Code-Generator) | Public | Python | Wi-Fi QR generator |
+| [football-tournament-manager-java](https://github.com/abre0101/football-tournament-manager-java) | Public | Java | Football tournament app |
+| [vue-contact-manager](https://github.com/abre0101/vue-contact-manager) | Public | Vue | Vue.js contact manager |
+| [Markdown-to-HTML-Converter](https://github.com/abre0101/Markdown-to-HTML-Converter) | Public | JavaScript | MD to HTML CLI tool |
+| [Unit-Converter-CLI](https://github.com/abre0101/Unit-Converter-CLI) | Public | HTML | Unit conversion CLI |
+| [JWipe-Disk-Sanitization-Tool](https://github.com/abre0101/JWipe-Disk-Sanitization-Tool) | Public | Java | Disk sanitization utility |
+| [tournament-manager-laravel](https://github.com/abre0101/tournament-manager-laravel) | Public | PHP | Laravel tournament manager |
+| [bus-reservation-system-java](https://github.com/abre0101/bus-reservation-system-java) | Public | Java | Java bus reservation app |
 
 <div align="center">
   <a href="https://github.com/abre0101?tab=repositories">
