@@ -270,8 +270,10 @@ JavaScript-based microfinance management system for handling loans, savings, and
 <td width="50%">
 
 ### 🌐 [Eshet Microfinance Website](https://github.com/abre0101/Eshet_microfinance_website)
+live: https://eshetmicrofinance.vercel.app/
+
 Public-facing website for Eshet Microfinance with modern UI and service information.
-live:https://eshetmicrofinance.vercel.app/
+
 **Tech Stack:** JavaScript, HTML/CSS
 
 **Features:**
