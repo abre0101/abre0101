@@ -38,6 +38,10 @@ Hey there! I'm **Abraham Worku**, a **Software Engineer** who loves turning comp
 
 ---
 
+![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21368013)
+![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21435755)
+![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21507881)
+![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21556460)
 ## 🛠️ Technology Stack
 
 <table>
@@ -56,10 +60,7 @@ Hey there! I'm **Abraham Worku**, a **Software Engineer** who loves turning comp
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21368013)
-![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21435755)
-![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21507881)
-![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21556460)
+
 </td>
 <td valign="top" width="33%">
 
