@@ -37,6 +37,7 @@ Hey there! I'm **Abraham Worku**, a **Software Engineer** who loves turning comp
 > *"Code is poetry when it's clean, scalable, and solves real problems."*
 
 ---
+#Badges
 
 ![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21368013)
 ![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21435755)
