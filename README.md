@@ -41,8 +41,6 @@ Hey there! I'm **Abraham Worku**, a **Software Engineer** who loves turning comp
 # Badges 😎
 
 ![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21435755)
-![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21507881)
-![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21556460)
 
 ## 🛠️ Technology Stack
 
