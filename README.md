@@ -13,7 +13,6 @@
 
 <!-- GitHub Stats Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abre0101&color=00ff41&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abre0101?color=00ff41&label=FOLLOWERS&style=flat-square&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/abre0101?color=00ff41&label=STARS&style=flat-square&logo=github" alt="Stars" />
   <img src="https://img.shields.io/github/last-commit/abre0101/abre0101?color=00ff41&label=LAST+UPDATE&style=flat-square&logo=github" alt="Last Update" />
