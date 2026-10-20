@@ -8,7 +8,7 @@
 
 <!-- Terminal Style Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF41&width=650&height=60&lines=echo+%22Hello+World%22+%23+Abraham+Worku;Full-Stack+Developer+%7C+Problem+Solver;Building+The+Digital+Future" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF41&width=650&height=60&lines=echo+%22Hello+World%22+%23+Abraham+Worku;Back-End+Developer+%7C+Problem+Solver;Building+The+Digital+Future" alt="Typing Animation" />
 </p>
 
 <!-- GitHub Stats Badges -->
