@@ -167,8 +167,6 @@ Public website and management tooling for a microfinance institution: service sh
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abre0101&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="Contribution graph" />
-
 </div>
 
 ---
