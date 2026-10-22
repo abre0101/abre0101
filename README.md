@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/github/followers/abre0101?color=00ff41&labelColor=0a0a0a&label=FOLLOWERS&style=flat-square&logo=github" alt="Followers" />
 <img src="https://img.shields.io/github/stars/abre0101?color=00ff41&labelColor=0a0a0a&label=STARS&style=flat-square&logo=github" alt="Stars" />
 <img src="https://img.shields.io/github/last-commit/abre0101/abre0101?color=00ff41&labelColor=0a0a0a&label=LAST+UPDATE&style=flat-square&logo=github" alt="Last update" />
-<img src="https://komarev.com/ghpvc/?username=abre0101&color=00ff41&labelColor=0a0a0a&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
@@ -59,7 +58,7 @@ I build **production-ready systems**: booking platforms with payments and QR tic
 
 **Back-End & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=laravel,flask,django,nodejs,nextjs&theme=dark" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=flask,laravel,django,nodejs&theme=dark" alt="Back-end" />
 <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
 
 **Front-End**
@@ -68,7 +67,7 @@ I build **production-ready systems**: booking platforms with payments and QR tic
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" alt="Databases" />
 
 **DevOps & Tools**
 
