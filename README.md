@@ -71,7 +71,7 @@ I build **production-ready systems**: booking platforms with payments and QR tic
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,vscode,figma&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=githubvscode&theme=dark" alt="Tools" />
 
 </div>
 
