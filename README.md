@@ -58,16 +58,16 @@ I build **production-ready systems**: booking platforms with payments and QR tic
 
 **Back-End & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=flask,laravel,django,nodejs&theme=dark" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=express,flask,laravel,django,nodejs&theme=dark" alt="Back-end" />
 <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
 
 **Front-End**
 
-<img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,bootstrap&theme=dark" alt="Front-end" />
+<img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind&theme=dark" alt="Front-end" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases" />
 
 **DevOps & Tools**
 
